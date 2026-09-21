@@ -17,11 +17,8 @@
 
 
 
-
 <h3 align="left">Stats:</h3>
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=13750&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-
-
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=13750&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
 ### 🎧 Spotify Playing
 
 ![spotify-github-profile](./img/view.svg)
