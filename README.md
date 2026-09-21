@@ -19,8 +19,8 @@
 
 
 
-![](https://raw.githubusercontent.com/Poctacek/github-stats-transparent/refs/heads/output/generated/languages.svg)
-![](https://raw.githubusercontent.com/Poctacek/github-stats-transparent/refs/heads/output/generated/overview.svg)
+![]([https://raw.githubusercontent.com/Poctacek/github-stats-transparent/refs/heads/output/generated/languages.svg](https://github-readme-stats.hackclub.dev/api/wakatime?username=13750&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8))
+
 
 ### 🎧 Spotify Playing
 
